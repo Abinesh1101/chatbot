@@ -1,0 +1,10 @@
+requests
+beautifulsoup4
+langchain
+langchain-community
+sentence-transformers
+faiss-cpu
+ollama
+python-dotenv
+fastapi
+uvicorn
