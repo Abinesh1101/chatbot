@@ -1,0 +1,16 @@
+{
+  "total_chunks": 414,
+  "avg_chunk_length": 649.3502415458937,
+  "min_chunk_length": 50,
+  "max_chunk_length": 1000,
+  "avg_words_per_chunk": 99.38888888888889,
+  "total_words": 41147,
+  "unique_domains": 2,
+  "domains": [
+    "www.changiairport.com",
+    "www.jewelchangiairport.com"
+  ],
+  "chunk_size_config": 1000,
+  "chunk_overlap_config": 200,
+  "processing_date": "2025-07-26T15:24:21.042933"
+}
